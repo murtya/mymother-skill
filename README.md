@@ -32,7 +32,7 @@
 
 ```json
 "我妈": {
-  "source": "你的GitHub用户名/woma-skill",
+  "source": "murtya/mymother-skill",
   "sourceType": "github",
   "skillPath": "SKILL.md"
 }
